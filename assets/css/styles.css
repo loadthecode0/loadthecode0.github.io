@@ -1,0 +1,16 @@
+
+body {
+    font-family: 'Poppins', sans-serif; 
+}
+
+nav a {
+    transition: color 0.3s ease;
+}
+
+header {
+    background: #000000;
+}
+
+button {
+    transition: background-color 0.3s ease;
+}

@@ -20,3 +20,17 @@ header {
 button {
     transition: background-color 0.3s ease;
 }
+
+.img-box
+{
+    display: flex;
+    justify-content:flex-end;
+    align-items:center;
+    height: 500px;
+    width: 500px;
+}
+
+img
+{
+    height: 500px;
+}

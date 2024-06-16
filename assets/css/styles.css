@@ -34,3 +34,7 @@ img
 {
     height: 500px;
 }
+
+.hover\\:shadow-light:hover {
+    box-shadow: 0 10px 15px rgba(255, 255, 255, 0.75);
+}
